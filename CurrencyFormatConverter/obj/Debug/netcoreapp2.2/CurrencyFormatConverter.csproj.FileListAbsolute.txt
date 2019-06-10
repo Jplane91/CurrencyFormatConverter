@@ -1,0 +1,11 @@
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/bin/Debug/netcoreapp2.2/CurrencyFormatConverter.deps.json
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/bin/Debug/netcoreapp2.2/CurrencyFormatConverter.runtimeconfig.json
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/bin/Debug/netcoreapp2.2/CurrencyFormatConverter.runtimeconfig.dev.json
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/bin/Debug/netcoreapp2.2/CurrencyFormatConverter.dll
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/bin/Debug/netcoreapp2.2/CurrencyFormatConverter.pdb
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/obj/Debug/netcoreapp2.2/CurrencyFormatConverter.csprojAssemblyReference.cache
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/obj/Debug/netcoreapp2.2/CurrencyFormatConverter.csproj.CoreCompileInputs.cache
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/obj/Debug/netcoreapp2.2/CurrencyFormatConverter.AssemblyInfoInputs.cache
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/obj/Debug/netcoreapp2.2/CurrencyFormatConverter.AssemblyInfo.cs
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/obj/Debug/netcoreapp2.2/CurrencyFormatConverter.dll
+/Users/jacoblane/Projects/CurrencyFormatConverter/CurrencyFormatConverter/obj/Debug/netcoreapp2.2/CurrencyFormatConverter.pdb

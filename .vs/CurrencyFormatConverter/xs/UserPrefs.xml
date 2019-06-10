@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4DC812F1-3326-4F4B-B23D-E0529044BECE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyFormatConverter/Program.cs">
+    <Files>
+      <File FileName="CurrencyFormatConverter/Program.cs" Line="76" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CurrencyFormatConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
